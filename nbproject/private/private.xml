@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/galan/OneDrive/Dokumen/Java/Project%20Akhir%20praktikum/cobaprojek/src/main/StaffView.java</file>
+            <file>file:/C:/Users/galan/OneDrive/Dokumen/Java/Project%20Akhir%20praktikum/cobaprojek/src/DAOimplement/dataimplement.java</file>
+            <file>file:/C:/Users/galan/OneDrive/Dokumen/Java/Project%20Akhir%20praktikum/cobaprojek/src/koneksi/connector.java</file>
+            <file>file:/C:/Users/galan/OneDrive/Dokumen/Java/Project%20Akhir%20praktikum/cobaprojek/src/model/Pasien.java</file>
+            <file>file:/C:/Users/galan/OneDrive/Dokumen/Java/Project%20Akhir%20praktikum/cobaprojek/src/main/PilihView.java</file>
+            <file>file:/C:/Users/galan/OneDrive/Dokumen/Java/Project%20Akhir%20praktikum/cobaprojek/src/model/Staff.java</file>
+            <file>file:/C:/Users/galan/OneDrive/Dokumen/Java/Project%20Akhir%20praktikum/cobaprojek/src/DAOimplement/datastaffimplement.java</file>
+            <file>file:/C:/Users/galan/OneDrive/Dokumen/Java/Project%20Akhir%20praktikum/cobaprojek/src/dataDAO/datastaffDAO.java</file>
+            <file>file:/C:/Users/galan/OneDrive/Dokumen/Java/Project%20Akhir%20praktikum/cobaprojek/src/main/LoginView.java</file>
+            <file>file:/C:/Users/galan/OneDrive/Dokumen/Java/Project%20Akhir%20praktikum/cobaprojek/src/model/Kamar.java</file>
+            <file>file:/C:/Users/galan/OneDrive/Dokumen/Java/Project%20Akhir%20praktikum/cobaprojek/src/dataDAO/datakamarDAO.java</file>
+            <file>file:/C:/Users/galan/OneDrive/Dokumen/Java/Project%20Akhir%20praktikum/cobaprojek/src/controller/datacontroller.java</file>
+            <file>file:/C:/Users/galan/OneDrive/Dokumen/Java/Project%20Akhir%20praktikum/cobaprojek/src/main/MainView.java</file>
+            <file>file:/C:/Users/galan/OneDrive/Dokumen/Java/Project%20Akhir%20praktikum/cobaprojek/src/model/modeltabelstaff.java</file>
+            <file>file:/C:/Users/galan/OneDrive/Dokumen/Java/Project%20Akhir%20praktikum/cobaprojek/src/model/modeltabelkamar.java</file>
+            <file>file:/C:/Users/galan/OneDrive/Dokumen/Java/Project%20Akhir%20praktikum/cobaprojek/src/main/main.java</file>
+            <file>file:/C:/Users/galan/OneDrive/Dokumen/Java/Project%20Akhir%20praktikum/cobaprojek/src/model/modeltabelpasien.java</file>
+            <file>file:/C:/Users/galan/OneDrive/Dokumen/Java/Project%20Akhir%20praktikum/cobaprojek/src/dataDAO/datapasienDAO.java</file>
+            <file>file:/C:/Users/galan/OneDrive/Dokumen/Java/Project%20Akhir%20praktikum/cobaprojek/src/controller/datastaffcontroller.java</file>
+            <file>file:/C:/Users/galan/OneDrive/Dokumen/Java/Project%20Akhir%20praktikum/cobaprojek/src/controller/datakamarcontroller.java</file>
+            <file>file:/C:/Users/galan/OneDrive/Dokumen/Java/Project%20Akhir%20praktikum/cobaprojek/src/DAOimplement/datakamar.java</file>
+        </group>
+    </open-files>
+</project-private>
